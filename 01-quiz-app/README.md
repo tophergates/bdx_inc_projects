@@ -25,7 +25,7 @@ Once you've completed all of the specifications, improve your quiz application a
 
   * Add transitions/animations so that when the next, back, and submit buttons are clicked you fade out the previous question and fade in the next question or final score.
 
-  * Store the quiz questions in an external JSON file. Use Asynchronous JavaScript and XML (AJAX) to retrieve quiz questions, answers, and check the users answers.
+  * Store the quiz data in an external JSON file. Use Asynchronous JavaScript and XML (AJAX) to retrieve quiz questions, answers, and check the users answers.
 
     * **IMPORTANT**: As a security feature, JavaScript will not allow access to a local file. You will need to be running a local web server to accomplish this.
 
