@@ -1,5 +1,3 @@
->The technology stack that you are allowed to use for this project is: HTML, CSS, and JavaScript.
-
 # BUILD A QUIZ APPLICATION
 Your challenge, should you choose to accept it, is to build a quiz application which meets the following specifications:
 
