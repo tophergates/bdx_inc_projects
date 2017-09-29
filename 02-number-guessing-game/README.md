@@ -1,5 +1,5 @@
 # NUMBER GUESSING GAME
-For your first real challenge, you will be building a number guessing game. The application will generate a random number and the user will attempt to guess that number.
+For your first challenge, you will be building a number guessing game. The application will generate a random number and the user will attempt to guess that number.
 
 ## SPECIFICATIONS
   * Your HTML page should include a text input and a submit button.
@@ -15,4 +15,14 @@ For your first real challenge, you will be building a number guessing game. The 
 ## EXTRA CREDIT
   * Keep track of the number of times the user has made a guess.
 
-  * Only give the user a maximum number of guesses (i.e., three guesses) before they lose and the game resets.
+  * Only give the user a maximum number of guesses (i.e., three guesses) before they lose.
+
+  * If the user wins, give them the option to play again. Clicking the 'Play Again' button will reset the game.
+
+  * If the user loses, tell them what the random number was and give them the option to play again. Clicking the 'Try Again' button will reset the game.
+
+  * Add transitions/animations to your game.
+
+<br>
+- - -
+[Here is an example](https://codepen.io/tophergates/full/JrNjvj/) of how this might look. **DO NOT LOOK AT THE SOURCE CODE! THAT'S CHEATING!!**
