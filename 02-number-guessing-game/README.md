@@ -21,6 +21,8 @@ For your first challenge, you will be building a number guessing game. The appli
 
   * If the user loses, tell them what the random number was and give them the option to play again. Clicking the 'Try Again' button will reset the game.
 
+  * Add form validation to ensure the input field is not blank, the guess submitted is a number, the guess is between your specified range of numbers, and of course that the user has not run out of guesses.
+
   * Add transitions/animations to your game.
 
 <br>
