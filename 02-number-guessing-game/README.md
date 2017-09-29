@@ -24,5 +24,7 @@ For your first challenge, you will be building a number guessing game. The appli
   * Add transitions/animations to your game.
 
 <br>
+
 - - -
+
 [Here is an example](https://codepen.io/tophergates/full/JrNjvj/) of how this might look. **DO NOT LOOK AT THE SOURCE CODE! THAT'S CHEATING!!**
