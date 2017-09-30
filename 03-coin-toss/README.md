@@ -23,7 +23,7 @@ Allow the user to guess HEADS or TAILS. Tell them if they picked correctly. Disp
   * **Hint**: Win rates can be calculated for each coin side by dividing the number of times the side was selected into the number of times the selection was correct. The overall win rate will be the total number of selections divided by the total number of games.
 
 ## EXTRA CREDIT
-  * Use (Google Charts)[https://developers.google.com/chart/interactive/docs/gallery/areachart] to display the statistics in chart form.
+  * Use [Google Charts](https://developers.google.com/chart/interactive/docs/gallery/areachart) to display the statistics in chart form.
 
   * Add animations/transitions when updating, showing, or hiding elements.
 
