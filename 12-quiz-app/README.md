@@ -2,10 +2,6 @@
 Your challenge, should you choose to accept it, is to build a quiz application which meets the following specifications:
 
 ## SPECIFICATIONS
->While I strongly suggest you use vanilla JavaScript to solidify your learning of the language, if you need to, you can use a JavaScript library or framework (such as jQuery) to assist you.
-
->If you use a library like jQuery to complete the project, you should go back afterward and attempt to complete the project once again using vanilla JavaScript.
-
   * Create a simple quiz application. The user should be able to select an answer corresponding to each question by using **radio buttons**. The quiz can be made up of any number of questions with any number of answer choices (I suggest no less than three questions).
 
   * The application should only display one question at a time as well as a **next** button. When the next button is clicked, you will need to dynamically remove the current question and add the next question to the page so the user can navigate forward through the quiz.
@@ -29,5 +25,7 @@ Once you've completed all of the specifications, improve your quiz application a
 
 ## EXTRA CREDIT
   * Add user authentication to allow users to log in using their login credentials. You can save their login credentials to local storage using HTML5 browser storage.
+
+      - Note: Using local storage for user login information is **not** something you would do in a real-world application. Normally, you would achieve this using a database to store and retrieve user data. But databases are a whole other rabbit hole to dive down.
 
   * Use cookies to remember the user and show a "Welcome, [First Name]" message when the user returns to the quiz.

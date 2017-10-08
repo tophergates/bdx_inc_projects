@@ -1,13 +1,12 @@
 # RANDOM NAME GENERATOR
-Ask the user to enter their name. Use their name to generate a new name for them.
+After the last few projects, this one will be a walk in the park. You will ask the user to enter their name and then you will generate a new name for them.
 
 ## SPECIFICATIONS
   * Your HTML page should include a text input to allow the user to enter their name as well as a submit button.
 
-  * When the user types their name and clicks submit, you will display a randomly generated name based on their name.
+  * When the user types their name and clicks submit, you will display a randomly generated name based on the input.
 
-      * For example, if the user were to type in the name 'Topher' they might get a random name like: 'Simple Topher' or 'Super Topher' back.
+      * For example, if the user were to type in the name 'Topher' they can expect to receive a random name back, like: 'Simple Topher' or 'Super Topher'.
 
-  * The page should remove the text input and submit button and replace it with the randomly generated name.
-
-  * There should be a "Regenerate Name" button which generates a new random name and displays it.
+## EXAMPLE
+There is no example for this project. Be creative.

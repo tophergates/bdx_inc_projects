@@ -27,8 +27,5 @@ Allow the user to guess HEADS or TAILS. Tell them if they picked correctly. Disp
 
   * Add animations/transitions when updating, showing, or hiding elements.
 
-<br>
-
-- - -
-
+## EXAMPLE
 [Here is an example](https://codepen.io/tophergates/full/gGRZmR/) of how this might look. **DO NOT LOOK AT THE SOURCE CODE! THAT'S CHEATING!!**
