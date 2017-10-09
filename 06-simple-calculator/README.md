@@ -18,9 +18,9 @@ Accept two numbers and add/subtract/multiply/divide them.
 
   * Add basic client-side form validation to your text inputs to ensure that the user has:
 
-      a) not left the field blank, and;
-      
-      b) only submitted numerical input (no alpha/special characters)
+        a) not left the field blank, and;
+
+        b) only submitted numerical input (no alpha/special characters)
 
 ## EXAMPLE
 There is no example for this project. Be creative.
