@@ -35,13 +35,13 @@ Allow the user to ask a question. Return a random response from the magic 8-ball
         ask(input.value)
           // If there are no errors, it will return a random message.
           // We can display that response and set a timeout to be resolved in 5 seconds
-          .then(msg => displayResponse(msg, 5000))
+          .then(msg => displayResponse(msg, 5))
 
           // When the promise resolves, call the resetReponse function
           .then(resetResponse)
 
           // If the promise is rejected, we know there is an error that needs to
-          // be displayed. So display it the error.
+          // be displayed. So display the error.
           .catch(err => displayError(err));
       };
 
