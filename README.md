@@ -10,7 +10,7 @@ Enjoy!
   2. [Number Guessing Game](/02-number-guessing-game/README.md)
   3. [Coin Toss](/03-coin-toss/README.md)
   4. [Magic 8 Ball](/04-magic-8-ball/README.md)
-  5. [Random Name Generator](/05-random-name-generator/README.md)
+  5. [Random User Generator](/05-random-user-generator/README.md)
   6. [Simple Calculator](/06-simple-calculator/README.md)
   7. [Cracking the Code](/07-cracking-the-code/README.md)
   8. [Shopping Cart](/08-shopping-cart/README.md)
