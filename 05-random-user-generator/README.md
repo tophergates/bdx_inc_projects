@@ -38,5 +38,7 @@ Sure, in a real-world application you would not use every possible AJAX method f
 
   * Add transitions between newly generated random users.
 
+  * Calculate the amount of time that elapses while a new user is being generated and display the information as "User generated in *N* seconds."
+
 ## EXAMPLE
 [Here is an example](https://codepen.io/tophergates/full/eGMebm/) of how this might look. **DO NOT LOOK AT THE SOURCE CODE! THAT'S CHEATING!!**
