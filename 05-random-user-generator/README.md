@@ -34,9 +34,9 @@ Sure, in a real-world application you would not use every possible AJAX method f
       * Nationality
 
 ## EXTRA CREDIT
-  * Instead of just the text for the user's nationality, display their native flag.
+  * Instead of just the text for the user's nationality, display their native flag. [These flag icons](http://flag-icon-css.lip.is/) may come in handy for this. 😉
 
-  * Make the page responsive and mobile friendly.
+  * Add transitions between newly generated random users.
 
 ## EXAMPLE
-The example for this lesson is coming soon.
+[Here is an example](https://codepen.io/tophergates/full/eGMebm/) of how this might look. **DO NOT LOOK AT THE SOURCE CODE! THAT'S CHEATING!!**
