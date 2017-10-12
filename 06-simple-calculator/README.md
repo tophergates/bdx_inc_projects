@@ -1,25 +1,19 @@
 # SIMPLE CALCULATOR
-Accept two numbers and add/subtract/multiply/divide them.
+Create a calculator that allows for addition, subtraction, multiplication, and division.
 
 ## SPECIFICATIONS
-  * Your HTML page should include two (2) text inputs to allow the user to enter two numbers. In addition, it should have an 'Add', 'Subtract', 'Multiply', and 'Divide' button.
+  * Your calculator should allow the user to click buttons to enter a number followed by a function (addition, subtraction, multiplication, division).
 
-  * When the user enters two numbers and clicks 'Add', you will add the two numbers and display the entire math sentence, i.e.: 6 + 3 = 9
+  * After selecting a function, the user should be able to enter another number followed by another function or the equals button.
 
-  * Similarly, when the 'Subtract' button is clicked you will subtract the two numbers and display the entire math sentence, i.e.: 6 - 3 = 3
-
-  * Repeat this process for multiply and divide.
+  * The user should be able to continue entering numbers followed by functions any number of times.
 
 ## EXTRA CREDIT
-  * If your solution uses separate functions to handle addition, subtraction, multiplication, and division, refactor your code to use a single function to handle the calculations. Such as:
+  * Create an 'AC/C' button which clears the currently displayed number on the first click and clears the entire calculator memory on the second click.
+    - 'AC' stands for 'all clear' which will clear all numbers previously entered.
+    - 'C' stands for 'clear' which will only clear the most recent number entered.
 
-      - `compute(6, 3, 'add');` or;
-      - `compute(6, 3, 'multiply');`
-
-  * Add basic client-side form validation to your text inputs to ensure that the user has:
-
-      - not left the field blank, and;
-      - only submitted numerical input (no alpha/special characters)
+  * See if you can handle keyboard events to allow the user to enter numbers and functions ( +, -, /, &#42;, and =) in the calculator from their keyboard.
 
 ## EXAMPLE
-There is no example for this project. Be creative.
+[Here is an example](https://codepen.io/tophergates/full/xXjmQL/) of how this might look. **DO NOT LOOK AT THE SOURCE CODE! THAT'S CHEATING!!**
