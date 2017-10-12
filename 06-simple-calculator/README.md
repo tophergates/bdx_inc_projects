@@ -13,7 +13,7 @@ Create a calculator that allows for addition, subtraction, multiplication, and d
     - 'AC' stands for 'all clear' which will clear all numbers previously entered.
     - 'C' stands for 'clear' which will only clear the most recent number entered.
 
-  * See if you can handle keyboard events to allow the user to enter numbers and functions ( +, -, /, &#42;, and =) in the calculator from their keyboard.
+  * See if you can handle keyboard events to allow the user to enter numbers and functions (+, -, /, &#42;, and =) in the calculator from their keyboard.
 
 ## EXAMPLE
 [Here is an example](https://codepen.io/tophergates/full/xXjmQL/) of how this might look. **DO NOT LOOK AT THE SOURCE CODE! THAT'S CHEATING!!**
