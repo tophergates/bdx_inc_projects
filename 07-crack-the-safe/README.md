@@ -59,7 +59,7 @@ Make no mistake - making a game, even one as simplistic as this, **WILL** challe
       * If they are caught, the game will actually end and they will lose all of their loot. But if they escape, the game will change back to 'Crack the Safe' and they will be given the opportunity to continue cracking safe's and looting.
 
 ## EXTRA CREDIT
-  * Use the browser's local storage to save the user's loot so that they keep the loot they've earned even if the game is closed and still have their loot when they return to the game.
+  * Use the browser's local storage to save the user's loot so that they keep the loot they've earned even if the game is closed.
 
   * Make it look purrrty! (Seriously, though. Don't under estimate the importance of a nice design and intuitive user experience. Even the best, most performant, applications and games fail if the user experience is terrible.)
 
