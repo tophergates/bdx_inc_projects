@@ -29,3 +29,6 @@ Allow the user to guess HEADS or TAILS. Tell them if they picked correctly. Disp
 
 ## EXAMPLE
 [Here is an example](https://codepen.io/tophergates/full/gGRZmR/) of how this might look. **DO NOT LOOK AT THE SOURCE CODE! THAT'S CHEATING!!**
+
+## BDX_INC SOLUTION
+[Here is your solution](https://github.com/bdxinc/bdx_coin_toss)

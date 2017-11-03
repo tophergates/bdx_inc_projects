@@ -51,3 +51,6 @@ Allow the user to ask a question. Return a random response from the magic 8-ball
 
 ## EXAMPLE
 [Here is an example](https://codepen.io/tophergates/full/dVmOXL/) of how this might look. **DO NOT LOOK AT THE SOURCE CODE! THAT'S CHEATING!!**
+
+## BDX_INC SOLUTION
+[Here is your solution](https://github.com/bdxinc/bdx_magic_8_ball)

@@ -9,3 +9,6 @@ Let's get started nice and easy with the most basic of projects, shall we?
   * In your external JavaScript file, simply use `console.log` to log the text "Hello World" to the console.
 
   * Open the webpage in your browser and open your developer tools to the console to verify your `console.log` statement worked.
+
+## EXAMPLE
+[Here is an example](https://codepen.io/tophergates/full/ZXVOde/) of how this might look. **DO NOT LOOK AT THE SOURCE CODE! THAT'S CHEATING!!**

@@ -68,4 +68,4 @@ Make no mistake - making a game, even one as simplistic as this, **WILL** challe
   * I encourage you to spend a fair amount of time on the CSS for this mini-game. Please do not under estimate the importance of design and user experience. Even the best applications can fail due to poor user experience and design.
 
 ## EXAMPLE
-[Here is an example](https://s.codepen.io/tophergates/debug/GMXzqx/xnrabdqyOPqA) of how this might look. **DO NOT LOOK AT THE SOURCE CODE! THAT'S CHEATING!!**
+[Here is an example](https://codepen.io/tophergates/full/GMXzqx/) of how this might look. **DO NOT LOOK AT THE SOURCE CODE! THAT'S CHEATING!!**
