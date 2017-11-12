@@ -1,2 +1,0 @@
-# MOUSE POSITION
-Coming Soon!

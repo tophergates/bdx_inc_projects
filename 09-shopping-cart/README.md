@@ -1,2 +1,0 @@
-# SHOPPING CART
-Coming Soon!

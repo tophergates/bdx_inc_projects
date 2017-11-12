@@ -1,2 +1,0 @@
-# IMAGE CAROUSEL
-Coming Soon!
