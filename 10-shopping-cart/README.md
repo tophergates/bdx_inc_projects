@@ -54,6 +54,8 @@ For this project you will create a basic shopping cart application. The applicat
   * Use AJAX to asynchronously load shop products from a JSON file. The AJAX method you use to asynchronously load shop items is up to you.
 
       * *Note:* You will need to be running a local web server to accomplish this.
+      
+  * The entire application should be responsive and mobile friendly.
 
 ## EXAMPLE
 [Here is an example](https://codepen.io/tophergates/full/EwGZNg/) of how this might look. **DO NOT LOOK AT THE SOURCE CODE! THAT'S CHEATING!!**
